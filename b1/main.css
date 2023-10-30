@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+section {
+    padding: 40px 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+/* Style the contact section differently */
+#contact {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 60px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
